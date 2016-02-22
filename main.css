@@ -1,5 +1,5 @@
 body {
-  background-image: eiffelbuilt.jpg;
+  background-image: url(“images/background.jpg”);
 }
 
 h1 {
@@ -12,7 +12,6 @@ h1 {
   text-align: left;
 }
 
-img,
 p {
   width: 50%;
   max-width: 700px;
@@ -26,12 +25,12 @@ img {
 }
 
 a {
-  margin: 23m auto 4em auto;
+  margin: 23em auto 4em auto;
   display: table;
   color: white;
   font-family: "arial", sans-serif;
   text-transform: uppercase;
   text-decoration: none;
   padding: 0.5em;
-  background-color: black
+  background-color: black;
 }
