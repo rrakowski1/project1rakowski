@@ -2,6 +2,29 @@ body {
   background-image: eiffelbuilt.jpg;
 }
 
+h1 {
+  width: 90%;
+  margin-right: auto;
+  margin-bottom: auto;
+  color: #0000FF;
+  font-family: "Arial", sans-serif;
+  font-size: 72px;
+  text-align: left;
+}
+
+img,
+p {
+  width: 50%;
+  max-width: 700px;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+img {
+  height: auto;
+  display: block;
+}
+
 a {
   margin: 23m auto 4em auto;
   display: table;
