@@ -1,7 +1,3 @@
-. hero {
-    background-image: background.jpg
-}
-
-h1 {
-  font font-family: Georgia, serif;
+body {
+  background-color: purple;
 }
