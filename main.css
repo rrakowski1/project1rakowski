@@ -22,7 +22,7 @@ span {
 
 h1 {
   color: black;
-  font-size: 300%;
+  font-size: 400%;
   padding-top: 10%;
 }
 
@@ -54,13 +54,12 @@ img {
 }
 
 a {
-  /*margin: 23em auto 4em auto;*/
   color: white;
   font-family: "Georgia", serif;
   text-transform: uppercase;
   text-decoration: none;
   padding: 0.5em;
-  background-color: black;
+  background-color: rgb(57, 182, 243);
   border-radius: 12px;
   border: 2px solid gray;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
