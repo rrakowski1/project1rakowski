@@ -1,13 +1,18 @@
 body {
-  background-image: url(“images/background2.jpg”);
+  background-image: url("images/background2.jpg");
+  background-size: cover;
+}
+
+span {
+  display: block;
 }
 
 h1 {
   width: 90%;
   margin-right: auto;
   margin-bottom: auto;
-  color: #0000FF;
-  font-family: "Arial", sans-serif;
+  color: black;
+  font-family: "Georgia", serif;
   font-size: 72px;
   text-align: left;
 }
@@ -22,6 +27,12 @@ p {
 img {
   height: auto;
   display: block;
+}
+
+.eiffelbuilt {
+  width: 30%;
+  float: right;
+  margin: 0 0 10% 10%;
 }
 
 a {
